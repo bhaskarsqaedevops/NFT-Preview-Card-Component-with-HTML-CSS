@@ -8,7 +8,7 @@ This is a solution to the NFT preview card component challenge on Frontend Mento
 Build a preview card component that matches the design and is fully responsive.
 
 ### Screenshot
-![](./images/Screenshot 2025-12-02 124644.png)
+![](./images/Screenshot%202025-12-02%20124644.png)
 
 ### Links
 - **Live Site:** [Click here to see it live](https://steady-froyo-a9f7d9.netlify.app/)
